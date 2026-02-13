@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-pink-200 text-center p-4">
-      <h1 className="text-5xl font-bold mb-6">💖 Will you be My Valentines Sri BABY?  💖</h1>
+      <h1 className="text-5xl font-bold mb-6">💖 Will you be My Valentines Sri?  💖</h1>
       <p className="text-xl mb-6">
         Click the button below to see your special Valentine message!
       </p>
