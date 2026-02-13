@@ -7,6 +7,7 @@ export default function AskPage() {
   const audioRef = useRef<HTMLAudioElement>(null);
 
   const compliments = [
+    "10 Reasons why I Love you"
     "Ur cute",
     "Ur sweet",
     "Ur handsome",
