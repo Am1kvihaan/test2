@@ -15,7 +15,8 @@ export default function AskPage() {
     "Ur loyal",
     "Ur listener (everything I say u listen without judging)",
     "Ur supporter",
-    "In 1 word ur THE BEST"
+    "In 1 word ur THE BEST
+    I LOVE YOU 💖"
   ];
 
   const handleYes = () => {
